@@ -26,7 +26,7 @@ This project uses Tableau to analyze HR data and provide insights into employee 
 - Dashboard screenshots
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ## 💡 Business Use Case
 HR teams can:
